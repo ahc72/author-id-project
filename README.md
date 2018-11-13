@@ -2,7 +2,7 @@
 Author Identification using Deep Learning Project
 
 For Text_Pre_Processing, you need to download Stanford NER from here: https://nlp.stanford.edu/software/CRF-NER.shtml#Download
-Place the stanford-ner.jar and english.all.3class.distsim.crf.ser.gz files in the same directory as your code. They are called in the code as:  
+Place the 'stanford-ner.jar' and 'english.all.3class.distsim.crf.ser.gz' files in the same directory as your code. They are called in the code as:  
 
 
 jar = './stanford-ner.jar'
